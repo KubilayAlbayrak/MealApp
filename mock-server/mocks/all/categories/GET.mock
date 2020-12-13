@@ -1,0 +1,58 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+
+{
+    "status" : "ok",
+    "data" : [
+    {
+    "id":"c1",
+    "title": "Italian", 
+    "backgroundColor":"#f5428d"
+    },
+    {
+    "id":"c2", 
+    "title":"Quick & Easy",
+    "backgroundColor":"#f54242"
+    },
+    {
+    "id":"c3", 
+    "title":"Hamburgers",
+    "backgroundColor":"#f5a442"
+    },
+    {
+    "id":"c4",
+    "title":"German",
+    "backgroundColor":"#f5d142"
+    },
+    {
+    "id":"c5",
+    "title":"Light & Lovely",
+    "backgroundColor":"#368dff"
+    },
+    {
+    "id":"c6",
+    "title":"Exotic",
+    "backgroundColor":"#41d95d"
+    },
+    {
+    "id":"c7", 
+    "title":"Breakfast", 
+    "backgroundColor":"#9eecff"
+    },
+    {
+    "id":"c8",
+    "title":"Asian",
+    "backgroundColor":"#b9ffb0"
+    },
+    {
+    "id":"c9", 
+    "title":"French", 
+    "backgroundColor":"#ffc7ff"
+    },
+    {
+    "id":"c10", 
+    "title":"Summer", 
+    "backgroundColor":"#47fced"
+    }
+   ]
+}

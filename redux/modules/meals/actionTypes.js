@@ -1,0 +1,5 @@
+export const STORE_ALL_MEALS = "STORE_ALL_MEALS";
+export const RESET_MEALS = "RESET_MEALS";
+export const FAVORITE_MEALS = "FAVORITE_MEALS";
+
+
